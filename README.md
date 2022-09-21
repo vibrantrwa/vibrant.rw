@@ -1,2 +1,2 @@
 # vibrant.rw
-E-Comerce website
+E-Comarce website
